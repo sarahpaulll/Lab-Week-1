@@ -1,19 +1,26 @@
 # My User Page
 
-## About Me
+## Table of Contents
+1. [About Me](#about-me)
+2. [Projects](#projects)
+3. [Languages](#languages)
+4. [Work Experience](#work-experience)
+
+## About Me <a name="about-me"></a>
 - **College:** University of California: San Diego
 - **Major:** Math-Computer Science
 - **Hometown:** Rhode Island
 
 
-## Projects
-### 1. Surveillance Outages and Flight Delays
-I analyzed flight data over 14 years in 15 minute bins across 77 airports. Designed a multiple linear regression model and statistical t-tests to predict airplane delays
-### 2. Death Penalty and Homicide Rates
-I gathered relevant data, clean and wrangled the datasets. Then ran different statistical tests to see the relationship between homicide rates and abolishing/halting the death penalty. 
-*Note this project can be viewed* [*here*](https://github.com/sarahpaulll/cogs/blob/master/FinalProject_Group030_WI24.ipynb)
+## Projects <a name="projects"></a>
+1. **Surveillance Outages and Flight Delays**
+   - Analyzed flight data over 14 years in 15 minute bins across 77 airports
+   - Designed a multiple linear regression model and statistical t-tests to predict airplane delays
+2. **Death Penalty and Homicide Rates**
+   - Gathered relevant data, clean and wrangled the datasets.
+   - Ran different statistical tests to see the relationship between homicide rates and abolishing/halting the death penalty. 
 
-## Languages
+## Languages <a name="languages"></a>
 - [X] Java
 - [ ] Javascript
 - [X] C
@@ -21,7 +28,7 @@ I gathered relevant data, clean and wrangled the datasets. Then ran different st
 - [ ] C#
 - [X] Python
 
-## Work Experience
+## Work Experience <a name="work-experience"></a>
 I interned at [Regulus Group](https://regulus-group.com/) as a Data Analyst over the summer. Regulus Group has been 
   > "Engineering the Skies since 2002"
 
