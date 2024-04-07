@@ -5,6 +5,7 @@
 2. [Projects](#projects)
 3. [Languages](#languages)
 4. [Work Experience](#work-experience)
+5. [Lab 1](#code-snippet)
 
 ## About Me <a name="about-me"></a>
 - **College:** University of California: San Diego
@@ -37,3 +38,8 @@ I interned at [Regulus Group](https://regulus-group.com/) as a Data Analyst over
 This summer I will be interning as an advanced technology intern at [Noblis](https://noblis.org/).
 
 ![image](https://noblis.org/wp-content/uploads/2022/01/noblis_blue-retina.png)
+
+
+## Lab 1 <a name="code-snippet"></a>
+For the first lab we had to use features of git. First we used `git clone` to clone our repository locally. Then `git branch` to create a separate branch and `git checkout` to switch to this branch. Once we were modifying the repository we used `git commit` to commit our changes and then `git push` to push our changes back to github. 
+
