@@ -10,6 +10,7 @@
 ## About Me <a name="about-me"></a>
 - **College:** University of California: San Diego
 - **Major:** Math-Computer Science
+   - ***Minor:*** *economics*
 - **Hometown:** Rhode Island
 
 
