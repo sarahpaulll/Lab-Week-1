@@ -41,5 +41,5 @@ This summer I will be interning as an advanced technology intern at [Noblis](htt
 
 
 ## Lab 1 <a name="code-snippet"></a>
-For the first lab we had to use features of git. First we used `git clone` to clone our repository locally. Then `git branch` to create a separate branch and `git checkout` to switch to this branch. Once we were modifying the repository we used `git commit` to commit our changes and then `git push` to push our changes back to github. 
+For the first lab we had to use features of git. First we used `git clone` to clone our repository locally. Then `git branch` to create a separate branch and `git checkout` to switch to this branch. Once we were modifying the repository we used `git commit` to commit our changes and then `git push` to push our changes back to github. These commands that I used for lab 1 are shown in this [image](Screenshots/CSE110-lab-week-1.png)
 
